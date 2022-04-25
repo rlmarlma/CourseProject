@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#FFE185</item>
+        <item name="colorPrimaryDark">#FFC000</item>
+        <item name="colorAccent" tools:ignore="DuplicateDefinition">#4CAF50</item>
+    </style>
+</resources>
